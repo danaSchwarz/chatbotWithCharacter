@@ -20,4 +20,12 @@ Key components include:
 ---
 
 ## 🚀 Current Features
-- ✅
+- ✅ Flask backend with working REST API  
+- ✅ LLaMA 3 integration (basic text input/output flow)  
+- ✅ React.js frontend with initial structure  
+
+---
+
+## 📅 Roadmap
+- [ ] Improve frontend responsiveness across devices  
+- [ ] Enhance UI/UX design for better user experience  
